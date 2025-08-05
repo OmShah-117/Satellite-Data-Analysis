@@ -1,0 +1,14 @@
+Project Title: Kepler Exoplanet Data Analysis
+Project Goal: The objective of this project is to analyze and characterize the exoplanets and planetary systems identified by the Kepler mission. This involves exploring the provided dataset to understand the characteristics of discovered planets, their host stars, and the overall distribution of these celestial bodies. The analysis aims to uncover patterns and relationships within the data, contributing to our understanding of planetary formation and diversity.
+Data Source: The analysis is based on the Kepler dataset, which was produced by the NASA Exoplanet Archive. The data includes information on confirmed exoplanets and candidate planets observed by the Kepler Space Telescope.
+Key Variables: The primary variables used for this analysis are:
+KepID (kepid): The unique Kepler Identification number for the host star.
+KOI Name (koi_name): The Kepler Object of Interest name, which is a designation for a star identified by Kepler as a potential host of a planet.
+Kepler Name (kepler_name): The official Kepler name of the planet, typically used after a candidate is confirmed.
+Confirmed Name (pl_name): The definitive name of the planet, which may be different from the Kepler name, especially for planets that were already known or were later confirmed through other means.
+Assumed Analysis and Key Findings:
+Based on the dataset, a completed analysis would have included the following:
+Data Cleaning and Preprocessing: Initial steps involved handling missing values and ensuring data integrity across the various naming conventions for the exoplanets.
+Distribution Analysis: An exploration of the number of planets associated with each Kepler ID and the distribution of confirmed planets versus candidates.
+Naming Convention Consistency: A comparison between kepler_name and pl_name to understand the consistency and evolution of planetary naming conventions.
+Summary Statistics: Generation of summary tables to highlight key counts, such as the total number of unique confirmed planets and the number of multiple-planet systems.
