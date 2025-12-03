@@ -1,6 +1,6 @@
 Project Title: Exoplanet Data Analysis and Modeling
 Description:
 Executed a data science project to analyze and model a dataset of exoplanetary systems. 
-This involved cleaning and preparing the data, then performing a series of exploratory data analyses.
+This involved cleaning and preparing the data, then performing a series of exploratory data analysis.
 I used statistical methods to verify fundamental astrophysical laws, such as Kepler's Third Law, and conducted a hypothesis test to uncover statistically significant differences in planetary characteristics across various discovery methods. A predictive model was developed using a Random Forest Regressor to forecast a star's effective temperature, achieving an R-squared of 0.21.
 The project highlights skills in data cleaning, statistical analysis, hypothesis testing, and machine learning model development using Python libraries like pandas, matplotlib, and scikit-learn.
